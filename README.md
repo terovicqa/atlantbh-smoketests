@@ -20,7 +20,7 @@ It verifies the core user flows — search, category navigation, specific place 
 1. **Clone this repository**  
    ```bash
    git clone https://github.com/terovicqa/atlantbh-smoketests.git
-   cd <your-repo-name>
+   cd atlantbh-smoketests.git
 
 ## Running the tests
 1. **Interactive Mode (Cypress Test Runner)**  
